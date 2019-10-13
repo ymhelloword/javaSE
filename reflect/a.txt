@@ -1,0 +1,11 @@
+name=ym
+        age=12#score
+        #Sun Oct 13 10:11:18 GMT+08:00 2019
+        age=12
+        name=ym
+        score=12
+#score
+#Sun Oct 13 10:11:49 GMT+08:00 2019
+age=12
+name=ym
+score=12
